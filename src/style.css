@@ -487,6 +487,41 @@ button:focus {
   box-shadow: 0 4px 4px 5px rgba(129, 72, 144, 0.561) !important;
 }
 
+.project-card-body {
+  display: flex;
+  flex-direction: column;
+}
+
+.project-tech-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: auto;
+  padding-top: 12px;
+}
+
+.project-tech-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 6px 10px;
+  border-radius: 16px;
+  outline: 1.5px solid rgba(200, 137, 230, 0.637);
+  box-shadow: 2px 3px 3px 2px rgba(89, 4, 168, 0.137);
+  color: white;
+}
+
+.project-tech-icon {
+  height: 1rem;
+  width: 1rem;
+  object-fit: contain;
+}
+
+.project-tech-text {
+  font-size: 0.8rem;
+  line-height: 1;
+}
+
 .blog-card {
   padding-top: 50px !important;
   padding-bottom: 50px !important;
