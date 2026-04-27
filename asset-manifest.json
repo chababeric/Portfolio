@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.cc41c561.css",
-    "main.js": "/Portfolio/static/js/main.5eeb85a7.js",
+    "main.js": "/Portfolio/static/js/main.59dbaeed.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/trivia-titan.png": "/Portfolio/static/media/trivia-titan.1d38c2aed3c95828ac94.png",
     "static/media/eric.jpg": "/Portfolio/static/media/eric.bf0f95a88b07409348a2.jpg",
@@ -30,11 +30,11 @@
     "static/media/Tailwind.svg": "/Portfolio/static/media/Tailwind.24603c32961e3bfa937c29527c7931cb.svg",
     "static/media/Apple MacOSX.svg": "/Portfolio/static/media/Apple MacOSX.6716caf08dfb7d91ce1df4625eadd6e7.svg",
     "main.cc41c561.css.map": "/Portfolio/static/css/main.cc41c561.css.map",
-    "main.5eeb85a7.js.map": "/Portfolio/static/js/main.5eeb85a7.js.map",
+    "main.59dbaeed.js.map": "/Portfolio/static/js/main.59dbaeed.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc41c561.css",
-    "static/js/main.5eeb85a7.js"
+    "static/js/main.59dbaeed.js"
   ]
 }
