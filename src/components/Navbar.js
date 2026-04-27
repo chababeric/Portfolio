@@ -37,7 +37,12 @@ function NavBar() {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand as={Link} to="/" className="d-flex" onClick={() => updateExpanded(false)}>
+        <Navbar.Brand
+          as={Link}
+          to="/"
+          className="d-flex"
+          onClick={() => updateExpanded(false)}
+        >
           <p className="brand-text">EE</p>
         </Navbar.Brand>
         <Navbar.Toggle
