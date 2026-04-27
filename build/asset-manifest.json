@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.799067b5.css",
+    "main.js": "/static/js/main.4440e3f5.js",
+    "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
+    "static/media/trivia-titan.png": "/static/media/trivia-titan.1d38c2aed3c95828ac94.png",
+    "static/media/eric.jpg": "/static/media/eric.bf0f95a88b07409348a2.jpg",
+    "static/media/quizmuz.png": "/static/media/quizmuz.04d1f7af42d08ac22274.png",
+    "static/media/klustr.png": "/static/media/klustr.1ded5b19061ea56bcedb.png",
+    "static/media/genetic.png": "/static/media/genetic.cf349a72c27fe157c597.png",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Soumyajit_Behera.pdf": "/static/media/Soumyajit_Behera.0a483621860835f0c118.pdf",
+    "static/media/php.svg": "/static/media/php.b432106097b9188fca2e70c994bf0e83.svg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/SQL.svg": "/static/media/SQL.7fd9bdcee9744b3b731709f2753c68af.svg",
+    "static/media/laravel.svg": "/static/media/laravel.c91bf16819196ec4c2ced27e24b7c451.svg",
+    "static/media/mysql.svg": "/static/media/mysql.c39dfc99883837c9be258ac692f1028a.svg",
+    "static/media/intellij-idea.svg": "/static/media/intellij-idea.a3d71dc3bbbb019fb84226baae835b3a.svg",
+    "static/media/vscode.svg": "/static/media/vscode.f5afdf1c4c0b365325db1e067c48782d.svg",
+    "static/media/Google Chrome.svg": "/static/media/Google Chrome.e4cb7a8170c050a508f0bb06b5606529.svg",
+    "static/media/Python.svg": "/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
+    "static/media/React.svg": "/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "static/media/Java.svg": "/static/media/Java.980d8e77e92511acfefbf2dfdf4336e1.svg",
+    "static/media/Node.svg": "/static/media/Node.4ccf66deab4cce38fa6a744e962daa9f.svg",
+    "static/media/Javascript.svg": "/static/media/Javascript.dcff0bf09e6c5ffc3eaea9cc7ec4c8f5.svg",
+    "static/media/Typescript.svg": "/static/media/Typescript.774303fe4118066257168b3609fd95a3.svg",
+    "static/media/Git.svg": "/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
+    "static/media/Tailwind.svg": "/static/media/Tailwind.24603c32961e3bfa937c29527c7931cb.svg",
+    "static/media/Apple MacOSX.svg": "/static/media/Apple MacOSX.6716caf08dfb7d91ce1df4625eadd6e7.svg",
+    "main.799067b5.css.map": "/static/css/main.799067b5.css.map",
+    "main.4440e3f5.js.map": "/static/js/main.4440e3f5.js.map",
+    "453.ace21015.chunk.js.map": "/static/js/453.ace21015.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.799067b5.css",
+    "static/js/main.4440e3f5.js"
+  ]
+}
