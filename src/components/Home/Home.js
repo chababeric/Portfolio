@@ -7,7 +7,7 @@ import Home2 from "./Home2";
 import Type from "./Type";
 // import Techstack from "../About/Techstack";
 // import Github from "../About/Github";
-import { AiFillGithub, AiFillInstagram } from "react-icons/ai";
+import { AiFillGithub, AiFillInstagram, AiOutlineMail } from "react-icons/ai";
 import { FaLinkedinIn, FaFacebook } from "react-icons/fa";
 
 function Home() {
@@ -94,6 +94,15 @@ function Home() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:eric.el-chabab.1@ens.etsmtl.ca"
+                  className="icon-colour home-social-icons"
+                  aria-label="Send email"
+                >
+                  <AiOutlineMail />
                 </a>
               </li>
             </ul>

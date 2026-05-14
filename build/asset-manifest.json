@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.cc41c561.css",
-    "main.js": "/Portfolio/static/js/main.6237dd01.js",
+    "main.css": "/Portfolio/static/css/main.a330eb55.css",
+    "main.js": "/Portfolio/static/js/main.e8e97ad4.js",
     "static/js/453.ace21015.chunk.js": "/Portfolio/static/js/453.ace21015.chunk.js",
     "static/media/trivia-titan.png": "/Portfolio/static/media/trivia-titan.1d38c2aed3c95828ac94.png",
     "static/media/eric.jpg": "/Portfolio/static/media/eric.bf0f95a88b07409348a2.jpg",
@@ -11,7 +11,6 @@
     "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/Soumyajit_Behera.pdf": "/Portfolio/static/media/Soumyajit_Behera.0a483621860835f0c118.pdf",
     "static/media/php.svg": "/Portfolio/static/media/php.b432106097b9188fca2e70c994bf0e83.svg",
-    "static/media/avatar.svg": "/Portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/SQL.svg": "/Portfolio/static/media/SQL.7fd9bdcee9744b3b731709f2753c68af.svg",
     "static/media/laravel.svg": "/Portfolio/static/media/laravel.c91bf16819196ec4c2ced27e24b7c451.svg",
     "static/media/mysql.svg": "/Portfolio/static/media/mysql.c39dfc99883837c9be258ac692f1028a.svg",
@@ -29,12 +28,12 @@
     "static/media/Git.svg": "/Portfolio/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
     "static/media/Tailwind.svg": "/Portfolio/static/media/Tailwind.24603c32961e3bfa937c29527c7931cb.svg",
     "static/media/Apple MacOSX.svg": "/Portfolio/static/media/Apple MacOSX.6716caf08dfb7d91ce1df4625eadd6e7.svg",
-    "main.cc41c561.css.map": "/Portfolio/static/css/main.cc41c561.css.map",
-    "main.6237dd01.js.map": "/Portfolio/static/js/main.6237dd01.js.map",
+    "main.a330eb55.css.map": "/Portfolio/static/css/main.a330eb55.css.map",
+    "main.e8e97ad4.js.map": "/Portfolio/static/js/main.e8e97ad4.js.map",
     "453.ace21015.chunk.js.map": "/Portfolio/static/js/453.ace21015.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc41c561.css",
-    "static/js/main.6237dd01.js"
+    "static/css/main.a330eb55.css",
+    "static/js/main.e8e97ad4.js"
   ]
 }
